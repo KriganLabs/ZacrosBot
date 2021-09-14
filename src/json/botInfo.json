@@ -1,5 +1,5 @@
 {
-  "botname": "Kitt Bot",
+  "botname": "Exneph Bot",
   "otherbot": [
     "17873023902@s.whatsapp.net"
   ],
@@ -7,14 +7,7 @@
     "6283153448697"
   ],
   "prefix": [
-    "\\.",
     "\\🚹",
-    "\\+",
-    "\\/",
-    "\\!",
-    "\\?",
-    "\\,",
-    "\\#",
     "\\💬"
   ],
   "ownername": "Ownernya Kittod Bukan Gw",
