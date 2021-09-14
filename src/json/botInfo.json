@@ -1,16 +1,23 @@
 {
-  "botname": "Zbin-Wabot",
+  "botname": "Kitt Bot",
+  "otherbot": [
+    "17873023902@s.whatsapp.net"
+  ],
   "ownerNumber": [
-    "6281910263857",
-    "6283128671683",
-    "60138062494",
-    "62895343001883",
-    "62895337035454"
+    "6283153448697"
   ],
   "prefix": [
-    "z"
+    "\\.",
+    "\\🚹",
+    "\\+",
+    "\\/",
+    "\\!",
+    "\\?",
+    "\\,",
+    "\\#",
+    "\\💬"
   ],
-  "ownername": "Galang/ZbinKw",
+  "ownername": "Ownernya Kittod Bukan Gw",
   "unicode": {
     "head": "⬣",
     "list": "⬡",
@@ -26,7 +33,7 @@
   "response": {
     "owner": "Khusus Owner",
     "admin": "Khusus Admin",
-    "group": "Khusus Groun",
+    "group": "Khusus Group",
     "wait": "Tunggu Sebentar...",
     "private": "Khusus Private",
     "notUrl": "Link Invalid",
@@ -34,8 +41,15 @@
     "mentioned": "Tag Orang Bang",
     "quoted": "Tag Pesan Bang",
     "_media": "Kirim Pesan Media Atau Tag Pesan Yang Terdapat Media",
-    "Error": "Yah Error",
+    "Error": "Something error",
     "fromMe": "Pesan Yang Di Balas Harus Dari Bot",
     "botAdmin": "Bot Nya Admin Dong"
+  },
+  "session": {
+    "clientID": "M1l9shFmBUu6j0gOausM3Q==",
+    "serverToken": "1@1gAdMu0sAfsE8N7mi6DyL3A/pVWHwveFft0Krh8jyii7mNdJSg4fDvOxtAGqfXeGEiOXYKUFLCb+HA==",
+    "clientToken": "Pkt7MT0yBY7sNeyXWPZQ0hCtmAZQrCO4qNz0ra3buEY=",
+    "encKey": "Is2Hz9ku+kGShn23EeQiumWls4wqcUVLrXUf9//ddj4=",
+    "macKey": "oVpUGa1//tzMsAqdTMr6kXGwR4UpORdxuphH7hpvplw="
   }
 }
