@@ -14,16 +14,16 @@
     "💬"
   ],
   "ownername": "Zyy.",
-  unicode : {
-  head: '⬣',
-  list: '⬡',
-  body: '┃',
-  upper: '┏',
-  down: '┗',
-  line: '━',
-  needed: [ '<', '>' ],
-  optional: [ '(', ')' ],
-  wings: [ '𓆩 ', ' 𓆪' ]
+  "unicode" : {
+  "head": '⬣',
+  "list": '⬡',
+  "body": '┃',
+  "upper": '┏',
+  "down": '┗',
+  "line": '━',
+  "needed": [ '<', '>' ],
+  "optional": [ '(', ')' ],
+  "wings": [ '𓆩 ', ' 𓆪' ]
 },
   "response": {
     "owner": "Khusus Owner",
