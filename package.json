@@ -15,10 +15,10 @@
   "@adiwajshing/baileys": "^3.5.2",
   "async": "^2.4.1",
   "axios": "^0.21.1",
-  "qrcode": "^1.4.4",
   "brainly-scraper": "^1.0.3",
   "cfonts": "^2.9.0",
   "cheerio": "^1.0.0-rc.5",
+  "cookie": "^0.4.1",
   "escape-string-regexp": "^1.0.5",
   "fake-useragent": "^1.0.1",
   "file-type": "^16.5.0",
@@ -27,17 +27,16 @@
   "g-i-s": "^2.1.6",
   "google-it": "^1.6.2",
   "human-readable": "^0.2.1",
-  "linebyline": "^1.3.0",
   "moment-timezone": "^0.5.32",
   "multistream": "^2.1.0",
   "node-fetch": "^2.6.1",
+  "qrcode": "^1.4.4",
   "remove.bg": "^1.3.0",
-  "request": "^2.81.0",
+  "speed-test": "^2.1.0",
+  "similarity": "^1.2.1",
   "spinnies": "^0.5.1",
   "syntax-error": "^1.4.0",
-  "tsc": "^2.0.3",
   "util": "^0.12.3",
-  "yt-search": "^2.7.5",
-  "ytdl-core": "^4.8.3"
+  "yt-search": "^2.7.5"
  }
 }
