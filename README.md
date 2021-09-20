@@ -1,4 +1,4 @@
-## Zbin-Wabot 2.0
+## Zacros Bot 2.0
 
 More compatible, efficient, and simple.
 Using advance method to make this sc bot easy to use!
@@ -9,8 +9,8 @@ Using advance method to make this sc bot easy to use!
 ```cmd
 $ pkg update && pkg upgrade
 $ pkg i git
-$ git clone https://github.com/Zobin33/Anu-Wabot
-$ cd Anu-Wabot
+$ git clone https://github.com/Azyansah/ZacrosBot-V2
+$ cd ZacrosBot-V2
 $ bash install.sh
 
 Scan QR
@@ -20,8 +20,8 @@ Scan QR
 ```cmd
 $ pkg update && pkg upgrade
 $ pkg i git nodejs libwebp ffmpeg wget tesseract toilet
-$ git clone https://github.com/Zobin33/Anu-Wabot
-$ cd Zbin-Wabot
+$ git clone https://github.com/Azyansah/ZacrosBot-V2
+$ cd ZacrosBot-V2
 $ wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 $ npm i -g
 ```
@@ -32,8 +32,8 @@ $ npm i -g
 * [`Download Node JS`](https://nodejs.org/en/download/)
 * [`Download Git`](https://git-scm.com/downloads)
 ```cmd
-> git clone https://github.com/Zobin33/Anu-Wabot
-> cd Zbin-Wabot
+> git clone https://github.com/Azyansah/ZacrosBot-V2
+> cd ZacrosBot-V2
 > wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 > npm i -g
 ```
@@ -56,6 +56,7 @@ Jika Ingin Ada Qr Baru session: null
 * Nabi Muhammad Saw
 * Keluarga
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
+* [`Zobin`](https://github.com/Zobin33)
 * [`Rrull`](https://github.com/arl03)
 * [`Dt`](https://github.com/Dete4)
 * [`VEXG`](https://github.com/VEXG)
