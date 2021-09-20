@@ -19,7 +19,7 @@ for (let b of functions.fs.readdirSync('./lib/actions')) require(`./lib/actions/
 await functions.delay(1000);
 functions.animate.succeed('Loading',{text:'Checking And Adding New Command Succeed'});
 client.logger.level = 'error';
-client.browserDescription = ['Zbin-Wabot','Desktop','3.0'];
+client.browserDescription = ['ZacrosBot-V2','Safari','3.0'];
 botinfo.session && await client.loadAuthInfo(botinfo.session);
 await client.connect({timeoutMs: 30000});
 logo.message = (await client.prepareMessageMedia(logo.buffer,'imageMessage')).imageMessage
