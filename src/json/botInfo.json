@@ -1,5 +1,5 @@
 {
-  "botname": "Exneph Bot",
+  "botname": "Zacros Bot",
   "otherbot": [
     "17873023902@s.whatsapp.net"
   ],
@@ -7,15 +7,16 @@
     "6283153448697",
     "6283128671683",
     "62815150192842",
-    "972526481359"
+    "972526481359",
+    "6281390607435"
   ],
   "prefix": [
     "🚹",
-    ".",
+    "❕",
     "🤡",
     "💬"
   ],
-  "ownername": "Zyy.",
+  "ownername": "Zyy, Zenn, Manxtodd",
   "unicode" : {
   "head": "⬣",
   "list": "⬡",
