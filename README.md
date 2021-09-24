@@ -40,7 +40,7 @@ $ npm i -g
 
 # Run Bot
 ```cmd
-$ cd Anu-Wabot
+$ cd ZacrosBot-V2
 $ node index.js
 ```
 
