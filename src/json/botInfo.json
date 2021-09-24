@@ -16,7 +16,11 @@
   "prefix": [
     ".",
     "!",
-    "#"
+    "#",
+    "_",
+    "/",
+    "+",
+    ","
   ],
   "ownername": "Zyy, Zenn, Manxtodd",
   "unicode" : {
