@@ -10,6 +10,8 @@ global.functions = new Functions();
 global.client = new WAConnection();
 global.cmd = new Command(client, global.botinfo, global.functions);
 global.logo = {buffer:functions.fs.readFileSync('./src/images/logo.jpg')};
+global.wallpaper1 = {buffer:functions.fs.readFileSync('./src/images/wallpaper1.jpg')};
+global.wallpaper2 = {buffer:functions.fs.readFileSync('./src/images/wallpaper2.jpg')};
 global.clients = [];
 
 async function run(){
