@@ -9,11 +9,12 @@ global.groupDb = require('./src/json/group.json');
 global.functions = new Functions();
 global.client = new WAConnection();
 global.cmd = new Command(client, global.botinfo, global.functions);
-global.logo = [{buffer:functions.fs.readFileSync("./src/images/wallpaper1.jpg")}]
+global.logo = {buffer:functions.fs.readFileSync("./src/images/wallpaper1.jpg")}
 global.clients = [];
-global.used_logo = 1
+global.used_logo = 0
 
 async function run(){
+try {
 await functions.start();
 for (let a of functions.fs.readdirSync('./lib/command')) require(`./lib/command/${a}`)
 for (let b of functions.fs.readdirSync('./lib/actions')) require(`./lib/actions/${b}`);
@@ -23,6 +24,8 @@ client.logger.level = 'error';
 client.browserDescription = ['Zacros','Safari','3.0'];
 botinfo.session && await client.loadAuthInfo(botinfo.session);
 await client.connect({timeoutMs: 30000});
-logo.message = (await client.prepareMessageMedia(logo.buffer,'imageMessage')).imageMessage
+} catch(e) {
+console.log(e)
+}
 }
 run();
