@@ -11,7 +11,7 @@ global.client = new WAConnection();
 global.cmd = new Command(client, global.botinfo, global.functions);
 global.logo = [{buffer:functions.fs.readFileSync("./src/images/wallpaper1.jpg")}]
 global.clients = [];
-global.used_logo = 0
+global.used_logo = 1
 
 async function run(){
 await functions.start();
