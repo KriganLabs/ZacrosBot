@@ -11,7 +11,7 @@ global.client = new WAConnection();
 global.cmd = new Command(client, global.botinfo, global.functions);
 global.logo = []
 global.clients = [];
-global.used_logo = 0
+global.used_logo = 2
 
 async function run(){
 await functions.start();
