@@ -9,7 +9,7 @@ global.groupDb = require('./src/json/group.json');
 global.functions = new Functions();
 global.client = new WAConnection();
 global.cmd = new Command(client, global.botinfo, global.functions);
-global.logo = {buffer:functions.fs.readFileSync("./src/images/wallpaper1.jpg","./src/images/wallpaper2.jpg")}
+global.logo = {buffer:functions.fs.readFileSync("./src/images/wallpaper2.jpg")}
 global.clients = [];
 global.used_logo = 0
 
