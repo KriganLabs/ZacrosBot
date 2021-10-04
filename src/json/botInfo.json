@@ -1,10 +1,7 @@
 {
   "botname": "Zacros Bot",
   "ownerNumber": [
-    "YOUR NUMBER" // Ex : "6283153448697"
-    //@param : If you want to add multiple owners
-    //Ex : "628xxxxx",
-    //     "628xxxxx"*/
+    "YOUR NUMBER"
   ],
   "prefix": [
     ".",
