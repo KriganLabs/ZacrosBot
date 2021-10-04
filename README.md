@@ -50,7 +50,7 @@ $ node index.js
 
 Jika Ingin Ada Qr Baru session: null 
 
-# Owner Number
+## Owner Number
   Ex : "6283153448697"
   If you want to add multiple owners
    Ex : "628xxxxx",
