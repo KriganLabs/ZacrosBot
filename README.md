@@ -1,4 +1,4 @@
-## Zacros Bot 2.0
+## Zacros Bot 1.0
 
 More compatible, efficient, and simple.
 Using advance method to make this sc bot easy to use!
@@ -9,8 +9,8 @@ Using advance method to make this sc bot easy to use!
 ```cmd
 $ pkg update && pkg upgrade
 $ pkg i git
-$ git clone https://github.com/Azyansah/ZacrosBot-V2
-$ cd ZacrosBot-V2
+$ git clone https://github.com/Zacros-Team/ZacrosBot
+$ cd ZacrosBot
 $ bash install.sh
 
 Scan QR
@@ -20,8 +20,8 @@ Scan QR
 ```cmd
 $ pkg update && pkg upgrade
 $ pkg i git nodejs libwebp ffmpeg wget tesseract toilet
-$ git clone https://github.com/Azyansah/ZacrosBot-V2
-$ cd ZacrosBot-V2
+$ git clone https://github.com/Zacros-Team/ZacrosBot
+$ cd ZacrosBot
 $ wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 $ npm i -g
 ```
@@ -32,15 +32,15 @@ $ npm i -g
 * [`Download Node JS`](https://nodejs.org/en/download/)
 * [`Download Git`](https://git-scm.com/downloads)
 ```cmd
-> git clone https://github.com/Azyansah/ZacrosBot-V2
-> cd ZacrosBot-V2
+> git clone https://github.com/Zacros-Team/ZacrosBot
+> cd ZacrosBot
 > wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 > npm i -g
 ```
 
 # Run Bot
 ```cmd
-$ cd ZacrosBot-V2
+$ cd ZacrosBot
 $ node index.js
 ```
 
