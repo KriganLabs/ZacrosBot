@@ -1,16 +1,16 @@
 
 <p align="center">
-  <img alig src="https://i.pinimg.com/originals/e5/ce/bf/e5cebf7269f86a7b1d1799f0cb1bfa46.gif"/>
-</p>
+  <img alig src="https://avatars.githubusercontent.com/u/91892491?s=200&v=4"/>
+</p><br><br>
 
 <p align="center">
 <div align="center">
 <img alt="GitHub" src="https://img.shields.io/badge/WHATSAPP%20BOT-25D32?style=for-the-badge&logoColor=darkgreen"/>
-<br>
+<br><br>
 </div>
   
 <p align="center">
-<a href="https://chat.whatsapp.com/EV2o7Y4C2XNDT5AAQPZjqt"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/BoWdkqEtgbaBmINjVsDmzD"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 <p align="center">
