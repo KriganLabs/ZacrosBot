@@ -1,11 +1,30 @@
 ## Zacros Bot 1.0
 
-More compatible, efficient, and simple.
-Using advance method to make this sc bot easy to use!
+<p align="center">
+  <img alig src="https://i.pinimg.com/originals/e5/ce/bf/e5cebf7269f86a7b1d1799f0cb1bfa46.gif" />
+</p>
 
-# Installation
+<div align="center">
+<img alt="GitHub" src="https://img.shields.io/badge/WHATSAPP%20BOT-25D32?style=for-the-badge&logoColor=darkgreen"/>
+<br><br>
+  
+> A whatsapp bot made using adiwajshing/Baileys library
 
-## Termux
+
+</div>
+
+### Changelog
+```rb
+Added +1 Feature
+- botInfo footerText
+
+Deletion Feature/Function
+- Nothing
+```
+
+## Installation
+
+### Termux
 ```cmd
 $ pkg update && pkg upgrade
 $ pkg i git
@@ -16,7 +35,7 @@ $ bash install.sh
 Scan QR
 ```
 
-## Manual Install (Termux)
+### Manual Install (Termux)
 ```cmd
 $ pkg update && pkg upgrade
 $ pkg i git nodejs libwebp ffmpeg wget tesseract toilet
@@ -26,7 +45,7 @@ $ wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-
 $ npm i -g
 ```
 
-## Windows
+### Windows
 * [`Download ffmpeg`](https://ffmpeg.org/download.html#build-windows) and set path
 * [`Download wget`](https://eternallybored.org/misc/wget/releases/) and set path
 * [`Download Node JS`](https://nodejs.org/en/download/)
@@ -38,25 +57,25 @@ $ npm i -g
 > npm i -g
 ```
 
-# Run Bot
+## Run Bot
 ```cmd
 $ cd ZacrosBot
 $ node index.js
 ```
 
-# Yang Perlu Di Edit
+## Yang Perlu Di Edit
  
 ./src/botInfo.json
 
 Jika Ingin Ada Qr Baru session: null 
 
-## Owner Number
+### Owner Number
   Ex : "6283153448697"
   If you want to add multiple owners
    Ex : "628xxxxx",
         "628xxxxx"
 
-## Thanks To
+### Thanks To
 
 * Allah | God
 * Nabi Muhammad Saw
