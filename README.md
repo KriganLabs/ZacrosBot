@@ -1,12 +1,12 @@
 
 <p align="center">
   <img alig src="https://avatars.githubusercontent.com/u/91892491?s=200&v=4"/>
-</p><br>
+</p>
 
 <p align="center">
 <div align="center">
-<img alt="GitHub" src="https://img.shields.io/badge/WHATSAPP%20BOT-25D32?style=for-the-badge&logoColor=darkgreen"/>
-<br><br>
+<img alt="GitHub" src="https://img.shields.io/badge/WHATSAPP%20BOT%20BY%20ZACROS%20TEAM-636363?style=for-the-badge&logoColor=darkgreen"/>
+<br><br><br>
 </div>
   
 <p align="center">
