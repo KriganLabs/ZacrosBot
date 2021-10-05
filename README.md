@@ -1,17 +1,21 @@
-## Zacros Bot 1.0
 
 <p align="center">
-  <img alig src="https://i.pinimg.com/originals/e5/ce/bf/e5cebf7269f86a7b1d1799f0cb1bfa46.gif" />
+  <img alig src="https://i.pinimg.com/originals/e5/ce/bf/e5cebf7269f86a7b1d1799f0cb1bfa46.gif"/>
 </p>
 
+<p align="center">
 <div align="center">
 <img alt="GitHub" src="https://img.shields.io/badge/WHATSAPP%20BOT-25D32?style=for-the-badge&logoColor=darkgreen"/>
-<br><br>
-  
-> A whatsapp bot made using adiwajshing/Baileys library
-
-
+<br>
 </div>
+  
+<p align="center">
+<a href="https://chat.whatsapp.com/EV2o7Y4C2XNDT5AAQPZjqt"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
+
+<p align="center">
+<a href="https://heroku.com/deploy?template=https://github.com/Zacros-Team/ZacrosBot/"><img alt="Deploy To Heroku" src="https://www.herokucdn.com/deploy/button.svg"/></a>
+</p>
 
 ### Changelog
 ```rb
