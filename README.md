@@ -6,7 +6,7 @@
 <p align="center">
 <div align="center">
 <img alt="GitHub" src="https://img.shields.io/badge/WHATSAPP%20BOT%20BY%20ZACROS%20TEAM-636363?style=for-the-badge&logoColor=darkgreen"/>
-<br><br><br>
+<br>
 </div>
   
 <p align="center">
@@ -19,8 +19,9 @@
 
 ### Changelog
 ```rb
-Added +1 Feature
+Added +2 Feature
 - botInfo footerText
+- hidetag
 
 Deletion Feature/Function
 - Nothing
