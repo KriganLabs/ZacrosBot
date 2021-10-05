@@ -1,7 +1,7 @@
 
 <p align="center">
   <img alig src="https://avatars.githubusercontent.com/u/91892491?s=200&v=4"/>
-</p><br><br>
+</p><br>
 
 <p align="center">
 <div align="center">
