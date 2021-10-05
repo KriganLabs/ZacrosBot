@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alig src="https://avatars.githubusercontent.com/u/91892491?s=200&v=4"/>
+  <img alig src="https://c.tenor.com/4lCQ8s153wIAAAAC/live-wallpaper-gojo-satoru.gif"/>
 </p>
 
 <p align="center">
