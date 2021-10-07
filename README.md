@@ -46,8 +46,6 @@ $ node .
 ## What needs to be edited
 [`./src/botInfo.json`](./src/json/botInfo.json)
 
-For new QR you can edit like this<br> `session: null`
-
 ### Owner Number
   `Ex : "62884677889"`<br>
   If you want to add multiple owners<br>
