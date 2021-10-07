@@ -39,5 +39,6 @@
     "Error": "Something error",
     "fromMe": "Pesan Yang Di Balas Harus Dari Bot",
     "botAdmin": "Bot Nya Admin Dong"
-  }
+  },
+    "session":null
 }
