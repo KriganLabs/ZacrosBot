@@ -21,8 +21,8 @@ Request fitur? join grup
 ### Changelog
 ```rb
 Added +2 Feature
-- botInfo footerText
-- hidetag
+- Anti call
+- Auto read
 
 Deletion Feature/Function
 - Nothing
