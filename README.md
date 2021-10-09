@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-<a href="https://chat.whatsapp.com/BoWdkqEtgbaBmINjVsDmzD"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/LYzNda7H6FzBkLOuhS6Cvp"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://heroku.com/deploy?template=https://github.com/Zacros-Team/ZacrosBot/"><img alt="Deploy To Heroku" src="https://www.herokucdn.com/deploy/button.svg"/></a>
 </p>
 
