@@ -20,9 +20,12 @@ Request fitur? join grup
 
 ### Changelog
 ```rb
-Added +2 Feature
+Added +5 Feature
 - Anti call
 - Auto read
+- Password Generator
+- Url Shortener
+- Translate
 
 Deletion Feature/Function
 - Nothing
