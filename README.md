@@ -26,6 +26,8 @@ Added +5 Feature
 - Password Generator
 - Url Shortener
 - Translate
+- Bisakah
+- Kapankah
 
 Deletion Feature/Function
 - Nothing
