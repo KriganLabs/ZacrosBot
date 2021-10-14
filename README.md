@@ -14,7 +14,7 @@
 <a href="https://heroku.com/deploy?template=https://github.com/Zacros-Team/ZacrosBot/"><img alt="Deploy To Heroku" src="https://www.herokucdn.com/deploy/button.svg"/></a>
 </p>
 
-### Decription
+### Description
 Sc ini akan terus di update.
 Request fitur? join grup
 
