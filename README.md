@@ -20,13 +20,8 @@ Request fitur? join grup
 
 ### Changelog
 ```rb
-Added +6 Feature
-- Cmd Delete Message
-- Password Generator
-- Url Shortener
-- Translate
-- Bisakah
-- Kapankah
+Added +1 Feature
+- Dork
 
 Deletion Feature/Function
 - Nothing
