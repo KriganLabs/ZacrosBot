@@ -1,10 +1,10 @@
 {
   "botname": "Zacros Bot",
   "ownerNumber": [
-    "YOUR NUMBER"
+    "6281515589573"
   ],
   "thumb": "https://i.pinimg.com/736x/64/7d/f2/647df293f9d2e552ccae82450785838c.jpg",
-  "footerText": "Powered by zacros team",
+  "footerText": "Powered by R-BOT",
   "prefix": [
     ".",
     "!",
@@ -14,7 +14,7 @@
     "+",
     ","
   ],
-  "ownername": "Zacros Team",
+  "ownername": "RamaGans",
   "unicode" : {
   "head": "⬣",
   "list": "⬡",
@@ -41,5 +41,12 @@
     "fromMe": "Pesan Yang Di Balas Harus Dari Bot",
     "botAdmin": "Bot Nya Admin Dong"
   },
-    "session":null
+    "session":{
+        "clientID": "+lqFXsltfyC4FQkG0K9z4w==",
+        "serverToken": "1@5KuxO4qP5Y80R0yhoeM5ciqUHFc3tI3Gk506NFOLg00ID2x5aQ6EpE37TTw3uNqBGGh+rMiuFioNXg==",
+        "clientToken": "fMTchUfUP0bzWQzMXT1Y7/ntUyMIoCLtTSBbWUMwKZs=",
+        "encKey": "5f2iuDuG+4BaARMk5oFf6egxgvQvHE3rEs7r3E6i7zs=",
+        "macKey": "yakabN3AVzvrBx9xJA6UAuLO4y5KnhEA2DtXBMG+lnM="
+         }
+
 }
