@@ -20,8 +20,8 @@ Request fitur? join grup
 
 ### Changelog
 ```rb
-Added +1 Feature
-- Dork
+Added Feature
+- Nothing
 
 Deletion Feature/Function
 - Nothing
