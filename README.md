@@ -15,8 +15,9 @@
 </p>
 
 ### Description
-Sc ini akan terus di update.
-Request fitur? join grup
+Bot ini dibuat menggunakan base dari [`Zobin33`](https://github.com/Zobin33)
+
+Jika ada pertanyaan atau request sesuatu, kamu bisa join ke whatsapp group kami
 
 ### Changelog
 ```rb
@@ -28,7 +29,6 @@ Deletion Feature/Function
 ```
 
 ## Installation
-### Windows
 * [`Download ffmpeg`](https://ffmpeg.org/download.html#build-windows) and set path
 * [`Download wget`](https://eternallybored.org/misc/wget/releases/) and set path
 * [`Download Node JS`](https://nodejs.org/en/download/)
@@ -42,11 +42,11 @@ Deletion Feature/Function
 
 ## Run Bot
 ```cmd
-$ cd Zacros
+$ cd ZacrosBot
 $ node .
 ```
 
-## What needs to be edited
+## Yang perlu di edit
 [`./src/botInfo.json`](./src/json/botInfo.json)
 
 ### Owner Number
@@ -54,13 +54,13 @@ $ node .
   If you want to add multiple owners<br>
    Example : `["62xxxxxx","62xxxxxx"]`
 
-### Thanks To
+### Special Thanks To
 
 * Allah | God
 * Nabi Muhammad Saw
 * Keluarga
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
-* [`Zobin`](https://github.com/Zobin33)
+* [`Zobin33`](https://github.com/Zobin33)
 * [`Rrull`](https://github.com/arl03)
 * [`Dt`](https://github.com/Dete4)
 * [`VEXG`](https://github.com/VEXG)
