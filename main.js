@@ -13,4 +13,8 @@ global.logo = {buffer:functions.fs.readFileSync("./src/images/20210929_225016.pn
 global.clients = [];
 global.used_logo = 0
 
-functions.run(client);
+try {
+functions.run(client)
+} catch (e){
+console.log(e)
+}
