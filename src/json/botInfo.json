@@ -1,14 +1,15 @@
 {
   "botname": "Zacros Bot",
   "ownerNumber": [
-    "YOUR NUMBER"
+    "6281515589573"
+    "6281515589573"
   ],
   "linkApi": {
    "zacros": "zacros.herokuapp.com",
    "exneph": "exneph-api.herokuapp.com"
   },
   "thumb": "https://i.pinimg.com/736x/64/7d/f2/647df293f9d2e552ccae82450785838c.jpg",
-  "footerText": "Powered by zacros team",
+  "footerText": "R-BOT",
   "prefix": [
     ".",
     "!",
@@ -45,5 +46,11 @@
     "fromMe": "Pesan Yang Di Balas Harus Dari Bot",
     "botAdmin": "Bot Nya Admin Dong"
   },
-    "session":null
+    "session":{
+	"clientID": "tzMBOvMNQmQOCm+T6dH2Cg==",
+	"serverToken": "1@84i6D+NNpIUNCVH1P/qym7ywAXjIRKxXQzhiQG5ZUocyLposG/i96XQzDUOTPKcWLXeoMtDB0gGJ3A==",
+	"clientToken": "ZYoIWGQ6yRUkM3G6qhdpLUmh/rMF/V8vY0aqFWbsBcs=",
+	"encKey": "o9tVrlgg8wcZZSmJokjenZvNOi3XRMEonQrwo584CDw=",
+	"macKey": "gOHEbwM8Lhowqv+3ZxE3XJz2bAz3alZL8egkleuyOkU="
+}
 }
