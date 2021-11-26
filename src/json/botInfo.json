@@ -1,7 +1,6 @@
 {
-  "botname": "Zacros Bot",
+  "botname": "R-BOT",
   "ownerNumber": [
-    "6281515589573"
     "6281515589573"
   ],
   "linkApi": {
@@ -9,7 +8,7 @@
    "exneph": "exneph-api.herokuapp.com"
   },
   "thumb": "https://i.pinimg.com/736x/64/7d/f2/647df293f9d2e552ccae82450785838c.jpg",
-  "footerText": "R-BOT",
+  "footerText": "Powered by R-BOT",
   "prefix": [
     ".",
     "!",
@@ -19,7 +18,7 @@
     "+",
     ","
   ],
-  "ownername": "Zacros Team",
+  "ownername": "RamaGans",
   "unicode" : {
   "head": "⬣",
   "list": "⬡",
@@ -47,10 +46,10 @@
     "botAdmin": "Bot Nya Admin Dong"
   },
     "session":{
-	"clientID": "tzMBOvMNQmQOCm+T6dH2Cg==",
-	"serverToken": "1@84i6D+NNpIUNCVH1P/qym7ywAXjIRKxXQzhiQG5ZUocyLposG/i96XQzDUOTPKcWLXeoMtDB0gGJ3A==",
-	"clientToken": "ZYoIWGQ6yRUkM3G6qhdpLUmh/rMF/V8vY0aqFWbsBcs=",
-	"encKey": "o9tVrlgg8wcZZSmJokjenZvNOi3XRMEonQrwo584CDw=",
-	"macKey": "gOHEbwM8Lhowqv+3ZxE3XJz2bAz3alZL8egkleuyOkU="
-}
+	"clientID": "UM81GQcZs8NusAFVR9rNSA==",
+	"serverToken": "1@wa4Ie34RQhBCOvEL3svV67EXOvJDAEiTfgGR4EAc6eexMKPuezVrKSjCIFBQU4W2KywS28sygEzFBg==",
+	"clientToken": "cMnoJEq2ArvgDnGKelBKDdCbBcb9nTOn0Rgn2esKlc0=",
+	"encKey": "oGUo5pZUzsKReRJY7DFmkilqlxiavVk4cVF0Sza++ko=",
+	"macKey": "IbWN6G/N2Aa3LoN2aqQYVoOTgULJvOwDrzLkN1TfeNQ="
+            }
 }
