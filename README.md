@@ -17,7 +17,7 @@
 ### Description
 Bot ini dibuat menggunakan base dari [`Zobin33`](https://github.com/Zobin33)
 
-Jika ada pertanyaan atau request sesuatu, kamu bisa join ke whatsapp group kami
+Jika ada pertanyaan atau request sesuatu, kamu bisa masukkan issue
 
 ### Changelog
 ```rb
@@ -34,9 +34,8 @@ Deletion Feature/Function
 * [`Download Node JS`](https://nodejs.org/en/download/)
 * [`Download Git`](https://git-scm.com/downloads)
 ```cmd
-> git clone https://github.com/Zacros-Team/ZacrosBot "Zacros"
+> git clone https://github.com/Zacros-Team/ZacrosBot
 > cd Zacros
-> wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 > npm i -g
 ```
 
