@@ -22,7 +22,7 @@ Jika ada pertanyaan atau request sesuatu, kamu bisa masukkan issue
 ### Changelog
 ```rb
 Added Feature
-- Nothing
+- Get Reply (#q)
 
 Deletion Feature/Function
 - Nothing
