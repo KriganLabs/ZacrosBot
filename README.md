@@ -23,6 +23,8 @@ Jika ada pertanyaan atau request sesuatu, kamu bisa masukkan issue
 ```rb
 Added Feature
 - Get Reply (#q)
+- Blocklist (#blocklist)
+- Set Ui / Profile (#setui)
 
 Deletion Feature/Function
 - Nothing
