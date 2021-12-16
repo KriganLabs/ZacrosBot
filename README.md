@@ -27,7 +27,7 @@ Added Feature
 - Set Ui / Profile (#setui)
 
 Deletion Feature/Function
-- Nothing
+- Broadcast Button (Reason : Cringe)
 ```
 
 ## Installation
