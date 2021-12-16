@@ -30,19 +30,19 @@
   "wings": [ "𓆩 ", " 𓆪" ]
 },
   "response": {
-    "owner": "Khusus Owner",
-    "admin": "Khusus Admin",
-    "group": "Khusus Group",
-    "wait": "Tunggu Sebentar...",
-    "private": "Khusus Private",
-    "notUrl": "Link Invalid",
-    "media": "Pesan Harus Media",
-    "mentioned": "Tag Orang Bang",
-    "quoted": "Tag Pesan Bang",
-    "_media": "Kirim Pesan Media Atau Tag Pesan Yang Terdapat Media",
-    "Error": "Something error",
-    "fromMe": "Pesan Yang Di Balas Harus Dari Bot",
-    "botAdmin": "Bot Nya Admin Dong"
+    "owner": "*REJECTED!* | Perintah Ini Khusus Owner",
+    "admin": "*REJECTED!* | Perintah Ini Khusus Admin",
+    "group": "*REJECTED!* | Perintah Ini Khusus Group",
+    "wait": "*WAIT!* | Mohon Tunggu Sebentar...",
+    "private": "*REJECTED!* | Perintah Ini Khusus Private",
+    "notUrl": "*REJECTED!* | Link Invalid",
+    "media": "*REJECTED!* | Pesan Harus Media",
+    "mentioned": "*REJECTED!* | Tag Orang",
+    "quoted": "*REJECTED!* | Tag Pesan",
+    "_media": "*REJECTED!* | Kirim Pesan Media Atau Tag Pesan Yang Terdapat Media",
+    "Error": "*ERROR!* | Terjadi Kesalahan Saat Mengirim Media/Pesan",
+    "fromMe": "*REJECTED!* | Pesan Yang Di Balas Harus Dari Bot",
+    "botAdmin": "*REJECTED!* | Bot Harus Admin"
   },
     "session":null
 }
