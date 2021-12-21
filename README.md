@@ -25,6 +25,7 @@ Added Feature
 - Get Reply (#q)
 - Blocklist (#blocklist)
 - Set Ui / Profile (#setui)
+- Soundcloud Downloader (#soundcloud)
 
 Deletion Feature/Function
 - Broadcast Button (Reason : Cringe)
