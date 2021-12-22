@@ -26,6 +26,7 @@ Added Feature
 - Blocklist (#blocklist)
 - Set Ui / Profile (#setui)
 - Soundcloud Downloader (#soundcloud)
+- Group WhatsApp Search
 
 Deletion Feature/Function
 - Broadcast Button (Reason : Cringe)
