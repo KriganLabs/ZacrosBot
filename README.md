@@ -28,6 +28,9 @@ Added Feature
 - Soundcloud Downloader (#soundcloud)
 - Group WhatsApp Search (#carigrub)
 
+Fix/Upgraded Command
+- Generator
+
 Deletion Feature/Function
 - Broadcast Button (Reason : Cringe)
 ```
