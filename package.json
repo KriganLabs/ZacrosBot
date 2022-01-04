@@ -1,45 +1,59 @@
 {
- "name": "zacros",
- "version": "1.0.0",
- "description": "Bot Wea Mudah Digunakan",
- "main": "main.js",
- "directories": {
-  "lib": "lib",
-  "src": "src",
-  "plugins": "plugins"
- },
- "scripts": {
-  "start": "node index.js"
- },
- "dependencies": {
-  "@adiwajshing/baileys": "^3.5.2",
-  "@dhnapi/news-api": "^1.0.10--up-v",
-  "async": "^2.4.1",
-  "awesome-phonenumber": "^2.62.1",
-  "axios": "^0.21.1",
-  "brainly-scraper": "^1.0.3",
-  "cfonts": "^2.9.0",
-  "cheerio": "^1.0.0-rc.5",
-  "cookie": "^0.4.1",
-  "escape-string-regexp": "^1.0.5",
-  "fake-useragent": "^1.0.1",
-  "file-type": "^16.5.0",
-  "fluent-ffmpeg": "^2.1.2",
-  "form-data": "^4.0.0",
-  "g-i-s": "^2.1.6",
-  "google-it": "^1.6.2",
-  "human-readable": "^0.2.1",
-  "moment-timezone": "^0.5.32",
-  "multistream": "^2.1.0",
-  "node-fetch": "^2.6.1",
-  "parse-ms": "^3.0.0",
-  "qrcode": "^1.4.4",
-  "remove.bg": "^1.3.0",
-  "similarity": "^1.2.1",
-  "speed-test": "^2.1.0",
-  "spinnies": "^0.5.1",
-  "syntax-error": "^1.4.0",
-  "util": "^0.12.3",
-  "yt-search": "^2.7.5"
- }
+  "name": "zacros",
+  "version": "1.0.0",
+  "description": "Bot Wea Mudah Digunakan",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.2",
+    "@dhnapi/news-api": "^1.0.10--up-v",
+    "async": "^2.4.1",
+    "awesome-phonenumber": "^2.62.1",
+    "axios": "^0.21.1",
+    "brainly-scraper": "^1.0.3",
+    "cfonts": "^2.9.0",
+    "cheerio": "^1.0.0-rc.5",
+    "cookie": "^0.4.1",
+    "escape-string-regexp": "^1.0.5",
+    "fake-useragent": "^1.0.1",
+    "file-type": "^16.5.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "g-i-s": "^2.1.6",
+    "google-it": "^1.6.2",
+    "human-readable": "^0.2.1",
+    "moment-timezone": "^0.5.32",
+    "multistream": "^2.1.0",
+    "node-fetch": "^2.6.1",
+    "node-os-utils": "^1.3.5",
+    "parse-ms": "^3.0.0",
+    "puppeteer": "^13.0.1",
+    "qrcode": "^1.4.4",
+    "remove.bg": "^1.3.0",
+    "similarity": "^1.2.1",
+    "speed-test": "^2.1.0",
+    "spinnies": "^0.5.1",
+    "syntax-error": "^1.4.0",
+    "util": "^0.12.3",
+    "yt-search": "^2.7.5"
+  },
+  "devDependencies": {},
+  "author": "Zacros-Team",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zacros-Team/ZacrosBot.git"
+  },
+  "keywords": [
+    "botwhatsapp"
+  ],
+  "bugs": {
+    "url": "https://github.com/Zacros-Team/ZacrosBot/issues"
+  },
+  "homepage": "https://github.com/Zacros-Team/ZacrosBot#readme"
 }
