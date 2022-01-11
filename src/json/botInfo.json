@@ -1,14 +1,14 @@
 {
-  "botname": "Zacros Bot",
+  "botname": "R-BOT BY RAMA",
   "ownerNumber": [
-    "YOUR NUMBER"
+    "6281515589573"
   ],
-  "website": "https://www.azyansah.xyz/",
+  "website": "https://chat.whatsapp.com/KTm4p53s6457qcV5aDOAPI",
   "linkApi": {
    "zacros": "https://api.zacros.my.id"
   },
   "thumb": "https://i.pinimg.com/736x/64/7d/f2/647df293f9d2e552ccae82450785838c.jpg",
-  "footerText": "© Zacros Team",
+  "footerText": "©RamaGans X ANU",
   "prefix": [
     ".",
     "!",
@@ -18,7 +18,7 @@
     "+",
     ","
   ],
-  "ownername": "Zacros Team",
+  "ownername": "RamaGANZ",
   "unicode" : {
   "head": "⬣",
   "list": "⬡",
@@ -45,5 +45,11 @@
     "fromMe": "*REJECTED!* | Pesan Yang Di Balas Harus Dari Bot",
     "botAdmin": "*REJECTED!* | Bot Harus Admin"
   },
-    "session":null
+    "session":{
+	"clientID": "iqoJ6bW6pcnxq0RDYkwGpg==",
+	"serverToken": "1@jv+MD/jmZe5A7B/d4MLRh2hRE4+D9PK0Tg/OYPXAPzvcvLnI3UEsI0/n9IAalrzY5AgW99FpZXptHA==",
+	"clientToken": "IUlvEmejWn0eWBQXVjf3lqhV8XIBIHoGRajBffFmblA=",
+	"encKey": "ppGtmNi0AzLbQeHFZMt9Mq+8yEHNnIFN+q0COY5oK2U=",
+	"macKey": "QR/J0jy/ucewpArSXTLPRcQjBF3DHsi0/pSxSbZF890="
+}
 }

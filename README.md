@@ -23,7 +23,7 @@ Jika ada pertanyaan atau request sesuatu, kamu bisa masukkan issue
 ```rb
 Added Feature
 - SShp
-- Botstats
+- Bot
 ```
 
 ## Installation
@@ -31,7 +31,7 @@ Added Feature
 * [`Download wget`](https://eternallybored.org/misc/wget/releases/) and set path
 * [`Download Node JS`](https://nodejs.org/en/download/)
 * [`Download Git`](https://git-scm.com/downloads)
-```cmd
+```cmdnama
 > git clone https://github.com/Zacros-Team/ZacrosBot
 > cd Zacros
 > npm i -g
