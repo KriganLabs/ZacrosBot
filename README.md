@@ -22,8 +22,7 @@ Jika ada pertanyaan atau request sesuatu, kamu bisa masukkan issue
 ### Changelog
 ```rb
 Added Feature
-- SShp
-- Botstats
+- Shortlink
 ```
 
 ## Installation
