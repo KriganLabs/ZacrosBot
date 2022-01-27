@@ -1,5 +1,5 @@
 {
-  "botname": "ROBOT WA👾",
+  "botname": "R-BOT ",
   "ownerNumber": [
     "6281515589573"
   ],
@@ -20,12 +20,12 @@
   ],
   "ownername": "RamaGANZ",
   "unicode" : {
-  "head": "⎘⃯⃗➢",
-  "list": "⎘⃯⃗➢",
-  "body": "│",
-  "upper": "╭⎆──────────",
-  "down": "╰",
-  "line": "┈┈┈┈┈┈┈┈┈┈┈┈╯",
+  "head": "➢",
+  "list": "⬕",
+  "body": "║",
+  "upper": "┌",
+  "down": "╚",
+  "line": "❑➤─|⬕•R-BOT•⬔|─➤°࿐",
   "needed": [ "<", ">" ],
   "optional": [ "(", ")" ],
   "wings": [ "𓆩 ", " 𓆪" ]
@@ -34,7 +34,7 @@
     "owner": "*REJECTED!* | Perintah Ini Khusus Owner",
     "admin": "*REJECTED!* | Perintah Ini Khusus Admin",
     "group": "*REJECTED!* | Perintah Ini Khusus Group",
-    "wait": "	         *In process...*         ",
+    "wait": "         *In process...*        ",
     "private": "*REJECTED!* | Perintah Ini Khusus Private",
     "notUrl": "*REJECTED!* | Link Invalid",
     "media": "*REJECTED!* | Pesan Harus Media",
