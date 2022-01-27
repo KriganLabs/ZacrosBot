@@ -1,5 +1,5 @@
 {
-  "botname": "R-BOT BY RAMA",
+  "botname": "ROBOT WA👾",
   "ownerNumber": [
     "6281515589573"
   ],
@@ -8,7 +8,7 @@
    "zacros": "https://api.zacros.my.id"
   },
   "thumb": "https://i.pinimg.com/736x/64/7d/f2/647df293f9d2e552ccae82450785838c.jpg",
-  "footerText": "©RamaGans X ANU",
+  "footerText": "©RamaGans X ANV",
   "prefix": [
     ".",
     "!",
@@ -34,7 +34,7 @@
     "owner": "*REJECTED!* | Perintah Ini Khusus Owner",
     "admin": "*REJECTED!* | Perintah Ini Khusus Admin",
     "group": "*REJECTED!* | Perintah Ini Khusus Group",
-    "wait": "*WAIT!* | Mohon Tunggu Sebentar...",
+    "wait": "	         *In process...*         ",
     "private": "*REJECTED!* | Perintah Ini Khusus Private",
     "notUrl": "*REJECTED!* | Link Invalid",
     "media": "*REJECTED!* | Pesan Harus Media",
