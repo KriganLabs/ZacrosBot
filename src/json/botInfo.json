@@ -20,12 +20,12 @@
   ],
   "ownername": "RamaGANZ",
   "unicode" : {
-  "head": "➢",
-  "list": "⬕",
+  "head": "⎆",
+  "list": "║➢",
   "body": "║",
   "upper": "┌",
   "down": "╚",
-  "line": "❑➤─|⬕•R-BOT•⬔|─➤°࿐",
+  "line": "─",
   "needed": [ "<", ">" ],
   "optional": [ "(", ")" ],
   "wings": [ "𓆩 ", " 𓆪" ]
