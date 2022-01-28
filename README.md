@@ -52,7 +52,7 @@ $ node .
 
 ### Special Thanks To
 
-* Allah | God
+* Allah | God.
 * Nabi Muhammad Saw
 * Keluarga
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
