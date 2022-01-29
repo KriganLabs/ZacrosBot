@@ -1,1 +1,397 @@
-{}
+{
+  "62815155895735@s.whatsapp.net": {
+    "jid": "62815155895735@s.whatsapp.net",
+    "id": "62815155895735@c.us",
+    "isAdmin": true,
+    "isSuperAdmin": false,
+    "name": "Unknown"
+  },
+  "6281515589573@s.whatsapp.net": {
+    "jid": "6281515589573@s.whatsapp.net",
+    "name": "Aku",
+    "vname": "i'm Rama 々/>",
+    "verify": "0",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6281515589573@c.us",
+    "isAdmin": true,
+    "isSuperAdmin": true
+  },
+  "6282118155634@s.whatsapp.net": {
+    "jid": "6282118155634@s.whatsapp.net",
+    "id": "6282118155634@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Unknown"
+  },
+  "6285866785739@s.whatsapp.net": {
+    "jid": "6285866785739@s.whatsapp.net",
+    "notify": "Rafa",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6285866785739@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Rafa"
+  },
+  "6285788503967@s.whatsapp.net": {
+    "jid": "6285788503967@s.whatsapp.net",
+    "notify": "DJORDAN",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6285788503967@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "DJORDAN"
+  },
+  "6288239475061@s.whatsapp.net": {
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "jid": "6288239475061@s.whatsapp.net",
+    "name": "Unknown"
+  },
+  "6283145502919@s.whatsapp.net": {
+    "jid": "6283145502919@s.whatsapp.net",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6283145502919@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Unknown"
+  },
+  "6285656495148@s.whatsapp.net": {
+    "jid": "6285656495148@s.whatsapp.net",
+    "notify": "Raihan",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6285656495148@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Raihan"
+  },
+  "6285811535904@s.whatsapp.net": {
+    "jid": "6285811535904@s.whatsapp.net",
+    "notify": "ㅤㅤ",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6285811535904@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "ㅤㅤ"
+  },
+  "6283816774629@s.whatsapp.net": {
+    "jid": "6283816774629@s.whatsapp.net",
+    "name": "«there is not »"
+  },
+  "6285776360514@s.whatsapp.net": {
+    "jid": "6285776360514@s.whatsapp.net",
+    "notify": "Miftah",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6285776360514@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Miftah"
+  },
+  "6282199456661@s.whatsapp.net": {
+    "jid": "6282199456661@s.whatsapp.net",
+    "vname": "Git",
+    "verify": "0",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6282199456661@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Git"
+  },
+  "6289518747712@s.whatsapp.net": {
+    "jid": "6289518747712@s.whatsapp.net",
+    "notify": "OCTA Kyaaa:>",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6289518747712@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "OCTA Kyaaa:>"
+  },
+  "6285790954008@s.whatsapp.net": {
+    "jid": "6285790954008@s.whatsapp.net",
+    "notify": "WildanNoCounter",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6285790954008@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "WildanNoCounter"
+  },
+  "6285860865611@s.whatsapp.net": {
+    "jid": "6285860865611@s.whatsapp.net",
+    "notify": "Pak Pa",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6285860865611@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Pak Pa"
+  },
+  "6285161422971@s.whatsapp.net": {
+    "jid": "6285161422971@s.whatsapp.net",
+    "notify": "Cakra Yudha Pratama",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6285161422971@c.us",
+    "isAdmin": true,
+    "isSuperAdmin": false,
+    "name": "Cakra Yudha Pratama"
+  },
+  "6287841997836@s.whatsapp.net": {
+    "jid": "6287841997836@s.whatsapp.net",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6287841997836@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Attar"
+  },
+  "6285825437623@s.whatsapp.net": {
+    "jid": "6285825437623@s.whatsapp.net",
+    "notify": "Aku.",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6285825437623@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Aku."
+  },
+  "6287817703393@s.whatsapp.net": {
+    "jid": "6287817703393@s.whatsapp.net",
+    "id": "6287817703393@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Unknown"
+  },
+  "6283193904501@s.whatsapp.net": {
+    "jid": "6283193904501@s.whatsapp.net",
+    "id": "6283193904501@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Unknown"
+  },
+  "628999345323@s.whatsapp.net": {
+    "jid": "628999345323@s.whatsapp.net",
+    "id": "628999345323@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "lee"
+  },
+  "62882009347037@s.whatsapp.net": {
+    "jid": "62882009347037@s.whatsapp.net",
+    "id": "62882009347037@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Unknown"
+  },
+  "62895325756099@s.whatsapp.net": {
+    "jid": "62895325756099@s.whatsapp.net",
+    "notify": "Hmm",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "62895325756099@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Hmm"
+  },
+  "972526481350@s.whatsapp.net": {
+    "jid": "972526481350@s.whatsapp.net",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Unknown"
+  },
+  "6281223579041@s.whatsapp.net": {
+    "jid": "6281223579041@s.whatsapp.net",
+    "notify": ".",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6281223579041@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "."
+  },
+  "212619631527@s.whatsapp.net": {
+    "jid": "212619631527@s.whatsapp.net",
+    "id": "212619631527@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Unknown"
+  },
+  "62895610747983@s.whatsapp.net": {
+    "jid": "62895610747983@s.whatsapp.net",
+    "id": "62895610747983@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Unknown"
+  },
+  "6283143712754@s.whatsapp.net": {
+    "jid": "6283143712754@s.whatsapp.net",
+    "notify": ".",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6283143712754@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "."
+  },
+  "6289613022069@s.whatsapp.net": {
+    "jid": "6289613022069@s.whatsapp.net",
+    "id": "6289613022069@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Muhammad Fajar Anugrah"
+  },
+  "6282265023242@s.whatsapp.net": {
+    "jid": "6282265023242@s.whatsapp.net",
+    "notify": "Setyo",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6282265023242@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Setyo"
+  },
+  "6287871478197@s.whatsapp.net": {
+    "jid": "6287871478197@s.whatsapp.net",
+    "notify": "✓✓°~",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6287871478197@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "✓✓°~"
+  },
+  "6281543277586@s.whatsapp.net": {
+    "jid": "6281543277586@s.whatsapp.net",
+    "id": "6281543277586@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Unknown"
+  },
+  "6283159686557@s.whatsapp.net": {
+    "jid": "6283159686557@s.whatsapp.net",
+    "id": "6283159686557@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "￴ ￴￴ ￴￴ ￴￴ ￴￴ ￴￴ ￴￴ ￴￴ ￴￴"
+  },
+  "6282268968907@s.whatsapp.net": {
+    "jid": "6282268968907@s.whatsapp.net",
+    "id": "6282268968907@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Unknown"
+  },
+  "6282316261850@s.whatsapp.net": {
+    "jid": "6282316261850@s.whatsapp.net",
+    "notify": "mlyaa",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6282316261850@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "mlyaa"
+  },
+  "6289520507796@s.whatsapp.net": {
+    "jid": "6289520507796@s.whatsapp.net",
+    "notify": ".",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6289520507796@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "."
+  },
+  "6285722220672@s.whatsapp.net": {
+    "jid": "6285722220672@s.whatsapp.net",
+    "notify": "y",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6285722220672@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "y"
+  },
+  "6285640068416@s.whatsapp.net": {
+    "jid": "6285640068416@s.whatsapp.net",
+    "name": "Wann",
+    "vname": "WANN OFC",
+    "verify": "0",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6285640068416@c.us",
+    "isAdmin": true,
+    "isSuperAdmin": false
+  },
+  "6281247675706@s.whatsapp.net": {
+    "jid": "6281247675706@s.whatsapp.net",
+    "notify": "gracio",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6281247675706@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "gracio"
+  },
+  "6282144412978@s.whatsapp.net": {
+    "jid": "6282144412978@s.whatsapp.net",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Elsa"
+  },
+  "6285380076026@s.whatsapp.net": {
+    "jid": "6285380076026@s.whatsapp.net",
+    "id": "6285380076026@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Fir_GoodBoy``"
+  },
+  "6282250115029@s.whatsapp.net": {
+    "jid": "6282250115029@s.whatsapp.net",
+    "notify": "Agsxz",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6282250115029@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "Agsxz"
+  },
+  "62887435047326@s.whatsapp.net": {
+    "jid": "62887435047326@s.whatsapp.net",
+    "name": "Zeeone",
+    "vname": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
+    "verify": "0",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "62887435047326@c.us",
+    "isAdmin": true,
+    "isSuperAdmin": false
+  },
+  "6282262082449@s.whatsapp.net": {
+    "jid": "6282262082449@s.whatsapp.net",
+    "notify": ".",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6282262082449@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "."
+  },
+  "6285730241007@s.whatsapp.net": {
+    "jid": "6285730241007@s.whatsapp.net",
+    "notify": "iqbal",
+    "dm_duration": "0",
+    "dm_t": "0",
+    "id": "6285730241007@c.us",
+    "isAdmin": false,
+    "isSuperAdmin": false,
+    "name": "iqbal"
+  }
+}
