@@ -4,6 +4,10 @@
     "YOUR NUMBER"
   ],
   "website": "https://www.azyansah.xyz/",
+  "settings": {
+    "callBlock": true,
+    "autoRead": true
+  },
   "linkApi": {
    "zacros": "https://api.zacros.my.id"
   },
