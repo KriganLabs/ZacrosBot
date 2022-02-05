@@ -3,13 +3,13 @@
   "ownerNumber": [
     "YOUR NUMBER"
   ],
-  "website": "https://www.azyansah.xyz/",
+  "website": "https://zacros.my.id/",
   "settings": {
     "callBlock": true,
     "autoRead": true
   },
   "linkApi": {
-   "zacros": "https://api.zacros.my.id"
+    "zacros": "https://api.zacros.my.id"
   },
   "thumb": "https://i.pinimg.com/736x/64/7d/f2/647df293f9d2e552ccae82450785838c.jpg",
   "footerText": "© Zacros Team",
@@ -23,17 +23,26 @@
     ","
   ],
   "ownername": "Zacros Team",
-  "unicode" : {
-  "head": "⬣",
-  "list": "⬡",
-  "body": "┃",
-  "upper": "┏",
-  "down": "┗",
-  "line": "━",
-  "needed": [ "<", ">" ],
-  "optional": [ "(", ")" ],
-  "wings": [ "𓆩 ", " 𓆪" ]
-},
+  "unicode": {
+    "head": "⬣",
+    "list": "⬡",
+    "body": "┃",
+    "upper": "┏",
+    "down": "┗",
+    "line": "━",
+    "needed": [
+      "<",
+      ">"
+    ],
+    "optional": [
+      "(",
+      ")"
+    ],
+    "wings": [
+      "𓆩 ",
+      " 𓆪"
+    ]
+  },
   "response": {
     "owner": "*REJECTED!* | Perintah Ini Khusus Owner",
     "admin": "*REJECTED!* | Perintah Ini Khusus Admin",
@@ -49,5 +58,5 @@
     "fromMe": "*REJECTED!* | Pesan Yang Di Balas Harus Dari Bot",
     "botAdmin": "*REJECTED!* | Bot Harus Admin"
   },
-    "session":null
+  "session": null
 }
