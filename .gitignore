@@ -1,2 +1,4 @@
 node_modules
 package-lock.json
+src/json/botInfo.json
+src/json/user.json
